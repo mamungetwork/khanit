@@ -211,7 +211,7 @@ h2 .underline::after {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url(../../images/homepage/free-audit-bg.png) #F2F8FF;
+  background: url(https://raw.githubusercontent.com/mamungetwork/khanit/main/images/homepage/free-audit-bg.png) #F2F8FF;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -310,7 +310,7 @@ header.active nav {
 /* ******************** NAVBAR STYLING END ******************** */
 /* ******************** HOME PAGE STYLING START ******************** */
 .home_landing_section {
-  background: url(../../images/homepage/slider-bg.png);
+  background: url(https://raw.githubusercontent.com/mamungetwork/khanit/main/images/homepage/slider-bg.png);
   background-position: right;
   background-size: 40% 100%;
   background-repeat: no-repeat;
@@ -745,7 +745,7 @@ header.active nav {
 .working_process {
   width: 100%;
   position: relative;
-  background: url(../../images/homepage/working-process-image.png) #F3F3F4;
+  background: url(https://raw.githubusercontent.com/mamungetwork/khanit/main/images/homepage/working-process-image.png) #F3F3F4;
   background-position: left;
   background-repeat: no-repeat;
   background-size: 30%, cover;
